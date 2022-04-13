@@ -1,0 +1,4 @@
+<properties>
+  <sonar.organization>roa-beep</sonar.organization>
+  <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+</properties>
